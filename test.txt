@@ -1,0 +1,2074 @@
+[
+    {
+        "created_at": "Tue Oct 23 01:25:28 +0000 2018",
+        "id": 1054544301940600832,
+        "id_str": "1054544301940600832",
+        "full_text": "RT @kylegriffin1: Lyft is partnering with Voto Latino to take voters to polls in Dodge City, Kansas after the city's only polling site was\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            139
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "kylegriffin1",
+                    "name": "Kyle Griffin",
+                    "id": 32871086,
+                    "id_str": "32871086",
+                    "indices": [
+                        3,
+                        16
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 747193876465614848,
+            "id_str": "747193876465614848",
+            "name": "Dr. Data&Science \ud83c\udf83",
+            "screen_name": "dataandpolitics",
+            "location": "SFO | ATL | \ud83d\udeeb",
+            "description": "not actually a grizzly bear | San Francisco & Atlanta | data science | @Ericsson | advertising | past life @UCSanDiego & @Columbia | \ud83c\udff3\ufe0f\u200d\ud83c\udf08 | be kind",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7526,
+            "friends_count": 542,
+            "listed_count": 195,
+            "created_at": "Sun Jun 26 22:24:37 +0000 2016",
+            "favourites_count": 14348,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 315,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/974506071669710848/cGFeC-u4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/974506071669710848/cGFeC-u4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/747193876465614848/1517350003",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Oct 22 17:30:01 +0000 2018",
+            "id": 1054424648740413440,
+            "id_str": "1054424648740413440",
+            "full_text": "Lyft is partnering with Voto Latino to take voters to polls in Dodge City, Kansas after the city's only polling site was moved outside city limits. https://t.co/KRsvZEuVPk",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                171
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/KRsvZEuVPk",
+                        "expanded_url": "http://fortune.com/2018/10/22/lyft-voto-latino-gotv-dodge-city/",
+                        "display_url": "fortune.com/2018/10/22/lyf\u2026",
+                        "indices": [
+                            148,
+                            171
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 32871086,
+                "id_str": "32871086",
+                "name": "Kyle Griffin",
+                "screen_name": "kylegriffin1",
+                "location": "Manhattan, NY",
+                "description": "Producer. MSNBC's @TheLastWord. Opinions mine. Do not congratulate.",
+                "url": "https://t.co/lgyZmnczMB",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/lgyZmnczMB",
+                                "expanded_url": "https://www.instagram.com/griffinkyle/",
+                                "display_url": "instagram.com/griffinkyle/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 490299,
+                "friends_count": 1012,
+                "listed_count": 6162,
+                "created_at": "Sat Apr 18 12:45:48 +0000 2009",
+                "favourites_count": 39462,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 42495,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/961462238732275712/omWV1cZs_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/961462238732275712/omWV1cZs_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/32871086/1455243585",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 5625,
+            "favorite_count": 12168,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 5625,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Oct 23 00:28:00 +0000 2018",
+        "id": 1054529839309430784,
+        "id_str": "1054529839309430784",
+        "full_text": "Wrongness of the Nogs https://t.co/UejGJei2bx",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            45
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/UejGJei2bx",
+                    "expanded_url": "https://buff.ly/2xTNDxj",
+                    "display_url": "buff.ly/2xTNDxj",
+                    "indices": [
+                        22,
+                        45
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 393033324,
+            "id_str": "393033324",
+            "name": "Data Science Central",
+            "screen_name": "DataScienceCtrl",
+            "location": "Los Angeles, CA",
+            "description": "Co-founded by Vincent Granville and part the DSC Community, our focus is on data science, ML, AI, deep learning, dataviz, Hadoop, IoT, and BI.",
+            "url": "http://t.co/gbSIHZcKZR",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/gbSIHZcKZR",
+                            "expanded_url": "http://www.DataScienceCentral.com",
+                            "display_url": "DataScienceCentral.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 127261,
+            "friends_count": 1116,
+            "listed_count": 3686,
+            "created_at": "Mon Oct 17 22:45:52 +0000 2011",
+            "favourites_count": 4507,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 38799,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/823989084699836416/HLeb5i56_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/823989084699836416/HLeb5i56_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/393033324/1488557327",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Oct 23 00:10:04 +0000 2018",
+        "id": 1054525325697146880,
+        "id_str": "1054525325697146880",
+        "full_text": "RT @JustJen2015: @dataandpolitics https://t.co/M2mpRXfLB5",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            57
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JustJen2015",
+                    "name": "JD \ud83c\uddfa\ud83c\uddf8patriotic progressive\ud83c\uddfa\ud83c\uddf8",
+                    "id": 522351375,
+                    "id_str": "522351375",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "dataandpolitics",
+                    "name": "Dr. Data&Science \ud83c\udf83",
+                    "id": 747193876465614848,
+                    "id_str": "747193876465614848",
+                    "indices": [
+                        17,
+                        33
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1054510866702438401,
+                    "id_str": "1054510866702438401",
+                    "indices": [
+                        34,
+                        57
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DqJgC9WWkAENQln.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DqJgC9WWkAENQln.jpg",
+                    "url": "https://t.co/M2mpRXfLB5",
+                    "display_url": "pic.twitter.com/M2mpRXfLB5",
+                    "expanded_url": "https://twitter.com/JustJen2015/status/1054510885136416769/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1620,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 800,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1054510885136416769,
+                    "source_status_id_str": "1054510885136416769",
+                    "source_user_id": 522351375,
+                    "source_user_id_str": "522351375"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1054510866702438401,
+                    "id_str": "1054510866702438401",
+                    "indices": [
+                        34,
+                        57
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DqJgC9WWkAENQln.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DqJgC9WWkAENQln.jpg",
+                    "url": "https://t.co/M2mpRXfLB5",
+                    "display_url": "pic.twitter.com/M2mpRXfLB5",
+                    "expanded_url": "https://twitter.com/JustJen2015/status/1054510885136416769/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1620,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 800,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1054510885136416769,
+                    "source_status_id_str": "1054510885136416769",
+                    "source_user_id": 522351375,
+                    "source_user_id_str": "522351375"
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 747193876465614848,
+            "id_str": "747193876465614848",
+            "name": "Dr. Data&Science \ud83c\udf83",
+            "screen_name": "dataandpolitics",
+            "location": "SFO | ATL | \ud83d\udeeb",
+            "description": "not actually a grizzly bear | San Francisco & Atlanta | data science | @Ericsson | advertising | past life @UCSanDiego & @Columbia | \ud83c\udff3\ufe0f\u200d\ud83c\udf08 | be kind",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7526,
+            "friends_count": 542,
+            "listed_count": 195,
+            "created_at": "Sun Jun 26 22:24:37 +0000 2016",
+            "favourites_count": 14348,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 315,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/974506071669710848/cGFeC-u4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/974506071669710848/cGFeC-u4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/747193876465614848/1517350003",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Oct 22 23:12:41 +0000 2018",
+            "id": 1054510885136416769,
+            "id_str": "1054510885136416769",
+            "full_text": "@dataandpolitics https://t.co/M2mpRXfLB5",
+            "truncated": false,
+            "display_text_range": [
+                16,
+                16
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "dataandpolitics",
+                        "name": "Dr. Data&Science \ud83c\udf83",
+                        "id": 747193876465614848,
+                        "id_str": "747193876465614848",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1054510866702438401,
+                        "id_str": "1054510866702438401",
+                        "indices": [
+                            17,
+                            40
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DqJgC9WWkAENQln.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DqJgC9WWkAENQln.jpg",
+                        "url": "https://t.co/M2mpRXfLB5",
+                        "display_url": "pic.twitter.com/M2mpRXfLB5",
+                        "expanded_url": "https://twitter.com/JustJen2015/status/1054510885136416769/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1620,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1054510866702438401,
+                        "id_str": "1054510866702438401",
+                        "indices": [
+                            17,
+                            40
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DqJgC9WWkAENQln.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DqJgC9WWkAENQln.jpg",
+                        "url": "https://t.co/M2mpRXfLB5",
+                        "display_url": "pic.twitter.com/M2mpRXfLB5",
+                        "expanded_url": "https://twitter.com/JustJen2015/status/1054510885136416769/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1620,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+            "in_reply_to_status_id": 1054394473898070016,
+            "in_reply_to_status_id_str": "1054394473898070016",
+            "in_reply_to_user_id": 747193876465614848,
+            "in_reply_to_user_id_str": "747193876465614848",
+            "in_reply_to_screen_name": "dataandpolitics",
+            "user": {
+                "id": 522351375,
+                "id_str": "522351375",
+                "name": "JD \ud83c\uddfa\ud83c\uddf8patriotic progressive\ud83c\uddfa\ud83c\uddf8",
+                "screen_name": "JustJen2015",
+                "location": "",
+                "description": "Lots of failures, a few notable successes. PoliSci PhD. Blogging abt tenure denial & failure in academia. \ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66 \ud83c\udf77\ud83d\udc85\ud83e\udd4a\ud83d\udcda\ud83d\udcdd\ud83d\udecd\u2615\ufe0f. RT=what say you?",
+                "url": "https://t.co/Q5lkFSuJox",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Q5lkFSuJox",
+                                "expanded_url": "http://www.jenniferdiascrophd.com",
+                                "display_url": "jenniferdiascrophd.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2476,
+                "friends_count": 2215,
+                "listed_count": 150,
+                "created_at": "Mon Mar 12 15:42:30 +0000 2012",
+                "favourites_count": 33370,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 27120,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1046851113474019329/nHh2Dtq4_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046851113474019329/nHh2Dtq4_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/522351375/1537058436",
+                "profile_link_color": "E44C9A",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "und"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "und"
+    },
+    {
+        "created_at": "Mon Oct 22 23:28:00 +0000 2018",
+        "id": 1054514738758144000,
+        "id_str": "1054514738758144000",
+        "full_text": "Most popular data science keywords on DSC https://t.co/B10wjC7cDq",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            65
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/B10wjC7cDq",
+                    "expanded_url": "https://buff.ly/2NsOoX8",
+                    "display_url": "buff.ly/2NsOoX8",
+                    "indices": [
+                        42,
+                        65
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 393033324,
+            "id_str": "393033324",
+            "name": "Data Science Central",
+            "screen_name": "DataScienceCtrl",
+            "location": "Los Angeles, CA",
+            "description": "Co-founded by Vincent Granville and part the DSC Community, our focus is on data science, ML, AI, deep learning, dataviz, Hadoop, IoT, and BI.",
+            "url": "http://t.co/gbSIHZcKZR",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/gbSIHZcKZR",
+                            "expanded_url": "http://www.DataScienceCentral.com",
+                            "display_url": "DataScienceCentral.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 127261,
+            "friends_count": 1116,
+            "listed_count": 3686,
+            "created_at": "Mon Oct 17 22:45:52 +0000 2011",
+            "favourites_count": 4507,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 38799,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/823989084699836416/HLeb5i56_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/823989084699836416/HLeb5i56_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/393033324/1488557327",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Oct 22 23:01:05 +0000 2018",
+        "id": 1054507965242396672,
+        "id_str": "1054507965242396672",
+        "full_text": "Data Science and Machine Learning: Great List of Resources https://t.co/qofGIQlPMz",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            82
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/qofGIQlPMz",
+                    "expanded_url": "http://ow.ly/xaD930mgMcD",
+                    "display_url": "ow.ly/xaD930mgMcD",
+                    "indices": [
+                        59,
+                        82
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 393033324,
+            "id_str": "393033324",
+            "name": "Data Science Central",
+            "screen_name": "DataScienceCtrl",
+            "location": "Los Angeles, CA",
+            "description": "Co-founded by Vincent Granville and part the DSC Community, our focus is on data science, ML, AI, deep learning, dataviz, Hadoop, IoT, and BI.",
+            "url": "http://t.co/gbSIHZcKZR",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/gbSIHZcKZR",
+                            "expanded_url": "http://www.DataScienceCentral.com",
+                            "display_url": "DataScienceCentral.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 127261,
+            "friends_count": 1116,
+            "listed_count": 3686,
+            "created_at": "Mon Oct 17 22:45:52 +0000 2011",
+            "favourites_count": 4507,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 38799,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/823989084699836416/HLeb5i56_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/823989084699836416/HLeb5i56_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/393033324/1488557327",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Oct 22 22:18:00 +0000 2018",
+        "id": 1054497124434485248,
+        "id_str": "1054497124434485248",
+        "full_text": "Using Confusion Matrices to Quantify the Cost of Being Wrong https://t.co/Ff1mnXFi46",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            84
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Ff1mnXFi46",
+                    "expanded_url": "https://buff.ly/2DChakj",
+                    "display_url": "buff.ly/2DChakj",
+                    "indices": [
+                        61,
+                        84
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 393033324,
+            "id_str": "393033324",
+            "name": "Data Science Central",
+            "screen_name": "DataScienceCtrl",
+            "location": "Los Angeles, CA",
+            "description": "Co-founded by Vincent Granville and part the DSC Community, our focus is on data science, ML, AI, deep learning, dataviz, Hadoop, IoT, and BI.",
+            "url": "http://t.co/gbSIHZcKZR",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/gbSIHZcKZR",
+                            "expanded_url": "http://www.DataScienceCentral.com",
+                            "display_url": "DataScienceCentral.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 127261,
+            "friends_count": 1116,
+            "listed_count": 3686,
+            "created_at": "Mon Oct 17 22:45:52 +0000 2011",
+            "favourites_count": 4507,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 38799,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/823989084699836416/HLeb5i56_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/823989084699836416/HLeb5i56_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/393033324/1488557327",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Oct 22 21:43:59 +0000 2018",
+        "id": 1054488563868327937,
+        "id_str": "1054488563868327937",
+        "full_text": "RT @LaurenRPfeifer: @dataandpolitics Crazy eyes over here wants some pets. https://t.co/xYBT64ykV8",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            98
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "LaurenRPfeifer",
+                    "name": "Lauren Pfeifer",
+                    "id": 299774851,
+                    "id_str": "299774851",
+                    "indices": [
+                        3,
+                        18
+                    ]
+                },
+                {
+                    "screen_name": "dataandpolitics",
+                    "name": "Dr. Data&Science \ud83c\udf83",
+                    "id": 747193876465614848,
+                    "id_str": "747193876465614848",
+                    "indices": [
+                        20,
+                        36
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1054406123745234945,
+                    "id_str": "1054406123745234945",
+                    "indices": [
+                        75,
+                        98
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DqIAyHbU0AEgwnH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DqIAyHbU0AEgwnH.jpg",
+                    "url": "https://t.co/xYBT64ykV8",
+                    "display_url": "pic.twitter.com/xYBT64ykV8",
+                    "expanded_url": "https://twitter.com/LaurenRPfeifer/status/1054406127834685441/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1054406127834685441,
+                    "source_status_id_str": "1054406127834685441",
+                    "source_user_id": 299774851,
+                    "source_user_id_str": "299774851"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1054406123745234945,
+                    "id_str": "1054406123745234945",
+                    "indices": [
+                        75,
+                        98
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DqIAyHbU0AEgwnH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DqIAyHbU0AEgwnH.jpg",
+                    "url": "https://t.co/xYBT64ykV8",
+                    "display_url": "pic.twitter.com/xYBT64ykV8",
+                    "expanded_url": "https://twitter.com/LaurenRPfeifer/status/1054406127834685441/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1054406127834685441,
+                    "source_status_id_str": "1054406127834685441",
+                    "source_user_id": 299774851,
+                    "source_user_id_str": "299774851"
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 747193876465614848,
+            "id_str": "747193876465614848",
+            "name": "Dr. Data&Science \ud83c\udf83",
+            "screen_name": "dataandpolitics",
+            "location": "SFO | ATL | \ud83d\udeeb",
+            "description": "not actually a grizzly bear | San Francisco & Atlanta | data science | @Ericsson | advertising | past life @UCSanDiego & @Columbia | \ud83c\udff3\ufe0f\u200d\ud83c\udf08 | be kind",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7526,
+            "friends_count": 542,
+            "listed_count": 195,
+            "created_at": "Sun Jun 26 22:24:37 +0000 2016",
+            "favourites_count": 14348,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 315,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/974506071669710848/cGFeC-u4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/974506071669710848/cGFeC-u4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/747193876465614848/1517350003",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Oct 22 16:16:25 +0000 2018",
+            "id": 1054406127834685441,
+            "id_str": "1054406127834685441",
+            "full_text": "@dataandpolitics Crazy eyes over here wants some pets. https://t.co/xYBT64ykV8",
+            "truncated": false,
+            "display_text_range": [
+                17,
+                54
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "dataandpolitics",
+                        "name": "Dr. Data&Science \ud83c\udf83",
+                        "id": 747193876465614848,
+                        "id_str": "747193876465614848",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1054406123745234945,
+                        "id_str": "1054406123745234945",
+                        "indices": [
+                            55,
+                            78
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DqIAyHbU0AEgwnH.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DqIAyHbU0AEgwnH.jpg",
+                        "url": "https://t.co/xYBT64ykV8",
+                        "display_url": "pic.twitter.com/xYBT64ykV8",
+                        "expanded_url": "https://twitter.com/LaurenRPfeifer/status/1054406127834685441/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 900,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1536,
+                                "h": 2048,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1054406123745234945,
+                        "id_str": "1054406123745234945",
+                        "indices": [
+                            55,
+                            78
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DqIAyHbU0AEgwnH.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DqIAyHbU0AEgwnH.jpg",
+                        "url": "https://t.co/xYBT64ykV8",
+                        "display_url": "pic.twitter.com/xYBT64ykV8",
+                        "expanded_url": "https://twitter.com/LaurenRPfeifer/status/1054406127834685441/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 900,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1536,
+                                "h": 2048,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1054394473898070016,
+            "in_reply_to_status_id_str": "1054394473898070016",
+            "in_reply_to_user_id": 747193876465614848,
+            "in_reply_to_user_id_str": "747193876465614848",
+            "in_reply_to_screen_name": "dataandpolitics",
+            "user": {
+                "id": 299774851,
+                "id_str": "299774851",
+                "name": "Lauren Pfeifer",
+                "screen_name": "LaurenRPfeifer",
+                "location": "The Best Coast",
+                "description": "I curse more now.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 506,
+                "friends_count": 505,
+                "listed_count": 21,
+                "created_at": "Mon May 16 17:15:51 +0000 2011",
+                "favourites_count": 10775,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 7955,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "8DCCAD",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/950215200644390912/0NTwW4b3_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/950215200644390912/0NTwW4b3_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/299774851/1511912984",
+                "profile_link_color": "F7B401",
+                "profile_sidebar_border_color": "FFE9AF",
+                "profile_sidebar_fill_color": "ACF9BC",
+                "profile_text_color": "F7B401",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Oct 22 21:42:57 +0000 2018",
+        "id": 1054488304136019970,
+        "id_str": "1054488304136019970",
+        "full_text": "RT @stlbf: @darth, @dataandpolitics, @stlkerri This feels sooooo familiar! https://t.co/cWn2szb1EH",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            98
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "stlbf",
+                    "name": "Stlbf",
+                    "id": 32598227,
+                    "id_str": "32598227",
+                    "indices": [
+                        3,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "darth",
+                    "name": "darth\u2122",
+                    "id": 1337271,
+                    "id_str": "1337271",
+                    "indices": [
+                        11,
+                        17
+                    ]
+                },
+                {
+                    "screen_name": "dataandpolitics",
+                    "name": "Dr. Data&Science \ud83c\udf83",
+                    "id": 747193876465614848,
+                    "id_str": "747193876465614848",
+                    "indices": [
+                        19,
+                        35
+                    ]
+                },
+                {
+                    "screen_name": "stlkerri",
+                    "name": "Kerri",
+                    "id": 3936916700,
+                    "id_str": "3936916700",
+                    "indices": [
+                        37,
+                        46
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1054469656314925061,
+                    "id_str": "1054469656314925061",
+                    "indices": [
+                        75,
+                        98
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DqI6kMsUUAU_fWn.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DqI6kMsUUAU_fWn.jpg",
+                    "url": "https://t.co/cWn2szb1EH",
+                    "display_url": "pic.twitter.com/cWn2szb1EH",
+                    "expanded_url": "https://twitter.com/stlbf/status/1054469675403436034/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1054469675403436034,
+                    "source_status_id_str": "1054469675403436034",
+                    "source_user_id": 32598227,
+                    "source_user_id_str": "32598227"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1054469656314925061,
+                    "id_str": "1054469656314925061",
+                    "indices": [
+                        75,
+                        98
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DqI6kMsUUAU_fWn.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DqI6kMsUUAU_fWn.jpg",
+                    "url": "https://t.co/cWn2szb1EH",
+                    "display_url": "pic.twitter.com/cWn2szb1EH",
+                    "expanded_url": "https://twitter.com/stlbf/status/1054469675403436034/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1054469675403436034,
+                    "source_status_id_str": "1054469675403436034",
+                    "source_user_id": 32598227,
+                    "source_user_id_str": "32598227"
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 747193876465614848,
+            "id_str": "747193876465614848",
+            "name": "Dr. Data&Science \ud83c\udf83",
+            "screen_name": "dataandpolitics",
+            "location": "SFO | ATL | \ud83d\udeeb",
+            "description": "not actually a grizzly bear | San Francisco & Atlanta | data science | @Ericsson | advertising | past life @UCSanDiego & @Columbia | \ud83c\udff3\ufe0f\u200d\ud83c\udf08 | be kind",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7526,
+            "friends_count": 542,
+            "listed_count": 195,
+            "created_at": "Sun Jun 26 22:24:37 +0000 2016",
+            "favourites_count": 14348,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 315,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/974506071669710848/cGFeC-u4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/974506071669710848/cGFeC-u4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/747193876465614848/1517350003",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Oct 22 20:28:56 +0000 2018",
+            "id": 1054469675403436034,
+            "id_str": "1054469675403436034",
+            "full_text": "@darth, @dataandpolitics, @stlkerri This feels sooooo familiar! https://t.co/cWn2szb1EH",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                63
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "darth",
+                        "name": "darth\u2122",
+                        "id": 1337271,
+                        "id_str": "1337271",
+                        "indices": [
+                            0,
+                            6
+                        ]
+                    },
+                    {
+                        "screen_name": "dataandpolitics",
+                        "name": "Dr. Data&Science \ud83c\udf83",
+                        "id": 747193876465614848,
+                        "id_str": "747193876465614848",
+                        "indices": [
+                            8,
+                            24
+                        ]
+                    },
+                    {
+                        "screen_name": "stlkerri",
+                        "name": "Kerri",
+                        "id": 3936916700,
+                        "id_str": "3936916700",
+                        "indices": [
+                            26,
+                            35
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1054469656314925061,
+                        "id_str": "1054469656314925061",
+                        "indices": [
+                            64,
+                            87
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DqI6kMsUUAU_fWn.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DqI6kMsUUAU_fWn.jpg",
+                        "url": "https://t.co/cWn2szb1EH",
+                        "display_url": "pic.twitter.com/cWn2szb1EH",
+                        "expanded_url": "https://twitter.com/stlbf/status/1054469675403436034/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1536,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1054469656314925061,
+                        "id_str": "1054469656314925061",
+                        "indices": [
+                            64,
+                            87
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DqI6kMsUUAU_fWn.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DqI6kMsUUAU_fWn.jpg",
+                        "url": "https://t.co/cWn2szb1EH",
+                        "display_url": "pic.twitter.com/cWn2szb1EH",
+                        "expanded_url": "https://twitter.com/stlbf/status/1054469675403436034/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1536,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 1337271,
+            "in_reply_to_user_id_str": "1337271",
+            "in_reply_to_screen_name": "darth",
+            "user": {
+                "id": 32598227,
+                "id_str": "32598227",
+                "name": "Stlbf",
+                "screen_name": "stlbf",
+                "location": "St. Charles, MO",
+                "description": "St. Louis, MO area. Blues hockey fan. LGB! St. Louis Cardinals fan. Have a spoiled mutt.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 208,
+                "friends_count": 464,
+                "listed_count": 0,
+                "created_at": "Fri Apr 17 21:29:19 +0000 2009",
+                "favourites_count": 169220,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 6007,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1052022036300816385/PoGoa3WE_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052022036300816385/PoGoa3WE_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/32598227/1539656731",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Oct 22 21:21:52 +0000 2018",
+        "id": 1054482998672982016,
+        "id_str": "1054482998672982016",
+        "full_text": "A curated list of awesome #machinelearning frameworks, libraries and software (by language).\u00a0 https://t.co/0pQJ235Syb https://t.co/XCPT0s61po",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            117
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "machinelearning",
+                    "indices": [
+                        26,
+                        42
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/0pQJ235Syb",
+                    "expanded_url": "https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md",
+                    "display_url": "github.com/josephmisiti/a\u2026",
+                    "indices": [
+                        94,
+                        117
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1054482974509539330,
+                    "id_str": "1054482974509539330",
+                    "indices": [
+                        118,
+                        141
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/DqJGra1WoAIUOVK.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DqJGra1WoAIUOVK.jpg",
+                    "url": "https://t.co/XCPT0s61po",
+                    "display_url": "pic.twitter.com/XCPT0s61po",
+                    "expanded_url": "https://twitter.com/schooltds/status/1054482998672982016/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 574,
+                            "h": 400,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 574,
+                            "h": 400,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 574,
+                            "h": 400,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1054482974509539330,
+                    "id_str": "1054482974509539330",
+                    "indices": [
+                        118,
+                        141
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/DqJGra1WoAIUOVK.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DqJGra1WoAIUOVK.jpg",
+                    "url": "https://t.co/XCPT0s61po",
+                    "display_url": "pic.twitter.com/XCPT0s61po",
+                    "expanded_url": "https://twitter.com/schooltds/status/1054482998672982016/photo/1",
+                    "type": "animated_gif",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 574,
+                            "h": 400,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 574,
+                            "h": 400,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 574,
+                            "h": 400,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            287,
+                            200
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/DqJGra1WoAIUOVK.mp4"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2456674142,
+            "id_str": "2456674142",
+            "name": "Data Science & Engineering",
+            "screen_name": "schooltds",
+            "location": "London",
+            "description": "School of Data Science and Engineering. Education project of @Persontyle Reimagining Learning.",
+            "url": "https://t.co/vyeyc9Ko6E",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/vyeyc9Ko6E",
+                            "expanded_url": "http://www.persontyle.com",
+                            "display_url": "persontyle.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1745,
+            "friends_count": 101,
+            "listed_count": 185,
+            "created_at": "Mon Apr 21 14:19:45 +0000 2014",
+            "favourites_count": 129,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1066,
+            "lang": "en-gb",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1000749169601105920/ml-nI0B9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1000749169601105920/ml-nI0B9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2456674142/1466881484",
+            "profile_link_color": "FA743E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Oct 22 21:21:00 +0000 2018",
+        "id": 1054482780959191040,
+        "id_str": "1054482780959191040",
+        "full_text": "New Marketing Insight from Unsupervised Bayesian Belief Networks https://t.co/Ew04j5MPWP",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            88
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Ew04j5MPWP",
+                    "expanded_url": "https://buff.ly/2l2pDRG",
+                    "display_url": "buff.ly/2l2pDRG",
+                    "indices": [
+                        65,
+                        88
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 393033324,
+            "id_str": "393033324",
+            "name": "Data Science Central",
+            "screen_name": "DataScienceCtrl",
+            "location": "Los Angeles, CA",
+            "description": "Co-founded by Vincent Granville and part the DSC Community, our focus is on data science, ML, AI, deep learning, dataviz, Hadoop, IoT, and BI.",
+            "url": "http://t.co/gbSIHZcKZR",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/gbSIHZcKZR",
+                            "expanded_url": "http://www.DataScienceCentral.com",
+                            "display_url": "DataScienceCentral.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 127261,
+            "friends_count": 1116,
+            "listed_count": 3686,
+            "created_at": "Mon Oct 17 22:45:52 +0000 2011",
+            "favourites_count": 4507,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 38799,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/823989084699836416/HLeb5i56_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/823989084699836416/HLeb5i56_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/393033324/1488557327",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    }
+]
