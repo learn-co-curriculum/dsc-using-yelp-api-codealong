@@ -1,5 +1,5 @@
 
-# Working With Twitter API - code along
+# Working With Twitter API - Code Along
 
 ## Introduction 
 
@@ -9,6 +9,7 @@ Now that we have covered the basics of API calling including how clients and ser
 You will be able to:
  
 * Successfully sign up to use Twitter’s API
+* Understand and explain the concept of a User Token, and why one is necessary when working with APIs
 
 ## Twitter API 
 
