@@ -1,6 +1,9 @@
 
 # Using the Yelp API - Codealong
 
+The previously deployed Codealong around working with the twitter API can be found [here](https://github.com/learn-co-curriculum/dsc-2-15-08-Twitter-API-tokens-codealong/tree/d297ab4dee806203cb861ce4f39b301c5189990f) (not relevant for new students).
+
+
 ## Introduction
 
 Now that we've discussed HTTP requests and OAuth, it's time to practice applying those skills to a production level API. In this codealong, we'll take you through the process of signing up for an OAuth token and then using that to make requests to the Yelp API!
