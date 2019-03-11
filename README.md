@@ -19,7 +19,7 @@ You will be able to:
 
 As discussed, in order to use many APIs, one needs to use OAuth which requires an access token. As such, our first step will be to generate this login information so that we can start making some requests.  
 
-With that, lets go grab an access token from an API site and make some API calls!
+With that, let's go grab an access token from an API site and make some API calls!
 Point your browser over to this [yelp page](https://www.yelp.com/developers/v3/manage_app) and start creating an app in order to obtain and api access token:
 
 ![](./images/yelp_app.png)
@@ -44,7 +44,7 @@ api_key = #Your api key goes here (as a string)
 ## An Example Request with OAuth <a id="oauth_request"></a>
 https://www.yelp.com/developers/documentation/v3/get_started
 
-In the next lesson, we'll further dissect how to read and translate online documentation like the link here. For now, let's simply look at an example request and dissect it into its consituent parts:
+In the next lesson, we'll further dissect how to read and translate online documentation like the link here. For now, let's simply look at an example request and dissect it into its constituent parts:
 
 
 ```python
@@ -72,7 +72,7 @@ print(response.text[:1000])
     <Response [200]>
     <class 'str'>
     {"businesses": [{"id": "jeWIYbgBho9vBDhc5S1xvg", "alias": "holy-guacamole-astoria", "name": "Holy Guacamole", "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8IjT2jd7vKDSOmtdXPI-Zg/o.jpg", "is_closed": false, "url": "https://www.yelp.com/biz/holy-guacamole-astoria?adjust_creative=xNHtXRpNa-MXGFJJTHHUvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=xNHtXRpNa-MXGFJJTHHUvw", "review_count": 108, "categories": [{"alias": "mexican", "title": "Mexican"}, {"alias": "bars", "title": "Bars"}], "rating": 4.0, "coordinates": {"latitude": 40.756621, "longitude": -73.929336}, "transactions": ["delivery", "pickup"], "price": "$$", "location": {"address1": "3555 31st St", "address2": "", "address3": "", "city": "Astoria", "zip_code": "11106", "country": "US", "state": "NY", "display_address": ["3555 31st St", "Astoria, NY 11106"]}, "phone": "+19178327261", "display_phone": "(917) 832-7261", "distance": 1290.4274875130448}, {"id": "6AJwsgXr7YwsqneGVAdgzw", "alias": "las-c
-
+    
 
 ## Breaking Down the Request
 
@@ -114,7 +114,7 @@ for key in response.json().keys():
     print(key)
     value = response.json()[key] #Use standard dictionary formatting
     print(type(value)) #What type is it?
-    print('\n\n') #Seperate out data
+    print('\n\n') #Separate out data
 ```
 
     businesses
@@ -132,7 +132,7 @@ for key in response.json().keys():
     
     
     
-
+    
 
 Let's continue to preview these further to get a little better acquainted.
 
@@ -220,7 +220,7 @@ response.json()['region']
 
 
 
-As you can see, we're primarily interested in the 'bussinesses' entry. 
+As you can see, we're primarily interested in the 'businesses' entry. 
 
 Let's go ahead and create a dataframe from that.
 
@@ -240,7 +240,7 @@ df.head() #Previews the first five rows.
            'image_url', 'is_closed', 'location', 'name', 'phone', 'price',
            'rating', 'review_count', 'transactions', 'url'],
           dtype='object')
-
+    
 
 
 
