@@ -63,9 +63,9 @@ code yelp_api.json
 
 In this file, lets create a dictionary of values representing the client id and api key that looks something like this:
 
-`{"client_id": "input client id here!", "api_key": "input api key here!"}`
+`{"api_key": "input api key here!"}`
 
-NOTE: Double quotes are important! You'll copy and paste the `client_id` and `api_key` values that yelp grants you after you create your app.
+NOTE: Double quotes are important! You'll copy and paste the `api_key` value that yelp grants you after you create your app.
 
 Ok, so now we have a file in our .secret folder on our home directory. Safe and sound (mostly) from anyone trying to steal our info off github.
 
@@ -92,11 +92,9 @@ So the line below would become:
 ```keys = get_keys("/Users/matthew.mitchell/.secret/yelp_api.json")```
 
 
-
 ```python
 keys = get_keys("/Users/YOUR_USERNAME_HERE/.secret/yelp_api.json")
 
-client_id = keys['client_id']
 api_key = keys['api_key']
 
 #While you may wish to print out these api keys to check that they imported properly,
