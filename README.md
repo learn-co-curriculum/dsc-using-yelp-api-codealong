@@ -26,16 +26,82 @@ You can either sign in to an existing Yelp account, or create a new one, if need
 
 On the page you see above, simply fill out some sample information such as "Flatiron Edu API Example" for the app name, or whatever floats your boat. Afterwards, you should be presented with an API key that you can use to make requests!
 
-With that, it's time to start making some api calls!
+With that, let's set up our authentication tokens so that we can start making some api calls!
+
+### Should I publicly share my passwords on Github?
+
+When using an api that reqires an api key and password you should **NEVER** hardcode theses values into your main file. When you upload your project onto github it is completely public and vulnerable to attack. Assume that if you put sensitive information publicly on the internet it will be found and abused. 
+
+To this end, how can we easily access our api key without opening ourselves up to vulnerabilities?
+
+There are many ways to store sensitive information but we will go with this method. 
+
+#### Move to your home (root) directory:
+
+```
+cd ~
+```
+
+#### Now make the `.secret/` directory:
+
+```
+mkdir .secret
+```
+
+This will create a new folder in your home directory where you can store files for any of the api information you have. 
+
+Can you find the file you just made in your terminal? 
+NOTE: dot files won't show up with just `ls` you must use the show all command as well `ls -a`
+
+
+#### Move into the newly created `.secret/` folder and create a file using vscode or any text editor to store your yelp api login info.
+
+```
+cd .secret/
+code yelp_api.json
+```
+
+In this file, lets create a dictionary of values representing the client id and api key that looks something like this:
+
+`{"client_id": "input client id here!", "api_key": "input api key here!"}`
+
+NOTE: Double quotes are important! You'll copy and paste the `client_id` and `api_key` values that yelp grants you after you create your app.
+
+Ok, so now we have a file in our .secret folder on our home directory. Safe and sound (mostly) from anyone trying to steal our info off github.
+
+#### Finally, lets get our client id and api key into our jupyter notebook.
+
+If we remember that our file is just a regular json file, open the file and pull out the appropriate information from the `~/.secret/yelp_api.json` file. 
+
 
 
 ```python
-#As a general rule of thumb, don't store passwords in a main file like this!
-#Instead, you would normally store those passwords under a sub file like passwords.py which you would then import.
-#Or even better, as an environment variable that could then be imported!
-#For now, we'll simply hardcode them into our notebook for simplicity.
-client_id = #Your client ID goes here (as a string)
-api_key = #Your api key goes here (as a string)
+import json
+
+def get_keys(path):
+    with open(path) as f:
+        return json.load(f)
+
+
+```
+
+> **Note**: Change the file path below to be your root directory. 
+If you're not sure what your username is, check it with `pwd`  
+For example, my current working directory is ```/Users/matthew.mitchell/Documents/dsc-using-yelp-api-codealong```  
+So the line below would become:
+```keys = get_keys("/Users/matthew.mitchell/.secret/yelp_api.json")```
+
+
+
+```python
+keys = get_keys("/Users/YOUR_USERNAME_HERE/.secret/yelp_api.json")
+
+client_id = keys['client_id']
+api_key = keys['api_key']
+
+#While you may wish to print out these api keys to check that they imported properly,
+#be sure to clear the output before uploading to Github. 
+#Again, you don't want your keys stolen!!!
 ```
 
 ## An Example Request with OAuth <a id="oauth_request"></a>
