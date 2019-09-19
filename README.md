@@ -17,22 +17,22 @@ You will be able to:
 As discussed, in order to use many APIs, one needs to use OAuth which requires an access token. As such, our first step will be to generate this login information so that we can start making some requests.  
 
 With that, let's go grab an access token from an API site and make some API calls!
-Point your browser over to this [yelp page](https://www.yelp.com/developers/v3/manage_app) and start creating an app in order to obtain and api access token:
+Point your browser over to this [yelp page](https://www.yelp.com/developers/v3/manage_app) and start creating an app in order to obtain and API access token:
 
 ![](./images/yelp_app.png)
 
 
-You can either sign in to an existing Yelp account, or create a new one, if needed.
+You can either sign in to an existing Yelp account or create a new one if needed.
 
-On the page you see above, simply fill out some sample information such as "Flatiron Edu API Example" for the app name, or whatever floats your boat. Afterwards, you should be presented with an API key that you can use to make requests!
+On the page you see above, simply fill out some sample information such as "Flatiron Edu API Example" for the app name, or whatever floats your boat. Afterward, you should be presented with an API key that you can use to make requests!
 
-With that, let's set up our authentication tokens so that we can start making some api calls!
+With that, let's set up our authentication tokens so that we can start making some API calls!
 
 ### Should I publicly share my passwords on Github?
 
-When using an api that reqires an api key and password you should **NEVER** hardcode theses values into your main file. When you upload your project onto github it is completely public and vulnerable to attack. Assume that if you put sensitive information publicly on the internet it will be found and abused. 
+When using an API that requires an API key and password you should **NEVER** hardcode theses values into your main file. When you upload your project onto github it is completely public and vulnerable to attack. Assume that if you put sensitive information publicly on the internet it will be found and abused. 
 
-To this end, how can we easily access our api key without opening ourselves up to vulnerabilities?
+To this end, how can we easily access our API key without opening ourselves up to vulnerabilities?
 
 There are many ways to store sensitive information but we will go with this method. 
 
@@ -48,20 +48,20 @@ cd ~
 mkdir .secret
 ```
 
-This will create a new folder in your home directory where you can store files for any of the api information you have. 
+This will create a new folder in your home directory where you can store files for any of the API information you have. 
 
 Can you find the file you just made in your terminal? 
 NOTE: dot files won't show up with just `ls` you must use the show all command as well `ls -a`
 
 
-#### Move into the newly created `.secret/` folder and create a file using vscode or any text editor to store your yelp api login info.
+#### Move into the newly created `.secret/` folder and create a file using vscode or any text editor to store your yelp API login info.
 
 ```
 cd .secret/
 code yelp_api.json
 ```
 
-In this file, lets create a dictionary of values representing the client id and api key that looks something like this:
+In this file, let's create a dictionary of values representing the client id and API key that looks something like this:
 
 `{"api_key": "input api key here!"}`
 
@@ -69,9 +69,9 @@ NOTE: Double quotes are important! You'll copy and paste the `api_key` value tha
 
 Ok, so now we have a file in our .secret folder on our home directory. Safe and sound (mostly) from anyone trying to steal our info off github.
 
-#### Finally, lets get our client id and api key into our jupyter notebook.
+#### Finally, let's get our client id and API key into our jupyter notebook.
 
-If we remember that our file is just a regular json file, open the file and pull out the appropriate information from the `~/.secret/yelp_api.json` file. 
+If we remember that our file is just a regular JSON file, open the file and pull out the appropriate information from the `~/.secret/yelp_api.json` file. 
 
 
 
@@ -97,7 +97,7 @@ keys = get_keys("/Users/YOUR_USERNAME_HERE/.secret/yelp_api.json")
 
 api_key = keys['api_key']
 
-#While you may wish to print out these api keys to check that they imported properly,
+#While you may wish to print out these API keys to check that they imported properly,
 #be sure to clear the output before uploading to Github. 
 #Again, you don't want your keys stolen!!!
 ```
@@ -140,15 +140,15 @@ print(response.text[:1000])
 As you can see, there are three main parts to our request.  
   
 They are:
-* The url
+* The URL
 * The header
 * The parameters
   
-The url is fairly straightforward and is simply the base url as described in the documentation (again more details in the upcoming lesson).
+The URL is fairly straightforward and is simply the base URL as described in the documentation (again more details in the upcoming lesson).
 
 The header is a dictionary of key-value pairs. In this case, we are using a fairly standard header used by many APIs. It has a strict form where 'Authorization' is the key and 'Bearer YourApiKey' is the value.
 
-The parameters are the filters which we wish to pass into the query. These will be embedded into the url when the request is made to the api. Similar to the header, they form key-value pairs. Valid key parameters by which to structure your queries, are described in the API documentation which we'll look at further shortly. A final important note however, is the need to replace spaces with "+". This is standard to many requests as URLs cannot contain spaces. (Note that the header itself isn't directly embedded into the url itself and as such, the space between 'Bearer' and YourApiKey is valid.)
+The parameters are the filters that we wish to pass into the query. These will be embedded into the URL when the request is made to the API. Similar to the header, they form key-value pairs. Valid key parameters by which to structure your queries are described in the API documentation which we'll look at further shortly. A final important note, however, is the need to replace spaces with "+". This is standard to many requests as URLs cannot contain spaces. (Note that the header itself isn't directly embedded into the URL itself and as such, the space between 'Bearer' and YourApiKey is valid.)
 
 
 ## The Response
@@ -446,4 +446,4 @@ df.head() #Previews the first five rows.
 
 ## Summary <a id="sum"></a>
 
-Congratulations! We've covered a lot here! We took some of your previous knowledge with HTTP requests and OAuth in order to leverage an enterprise API! Then we made some requests to retrieve information that came back as a json format. We then transformed this data into a dataframe using the Pandas package. In the next lab, we'll break down how to read API documentation and then put it all together to make a nifty map!
+Congratulations! We've covered a lot here! We took some of your previous knowledge with HTTP requests and OAuth in order to leverage an enterprise API! Then we made some requests to retrieve information that came back as a JSON format. We then transformed this data into a dataframe using the Pandas package. In the next lab, we'll break down how to read API documentation and then put it all together to make a nifty map!
