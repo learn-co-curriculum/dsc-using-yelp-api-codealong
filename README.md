@@ -9,8 +9,9 @@ Now that we've discussed HTTP requests and OAuth, it's time to practice applying
 
 You will be able to:
 
-* Generate an OAuth token for the yelp API
 * Make requests using OAuth
+* Use the JSON module to load and parse JSON documents
+* Convert JSON to a pandas dataframe
 
 ## Generating Access Tokens
 
