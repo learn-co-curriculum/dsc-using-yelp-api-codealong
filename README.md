@@ -82,8 +82,6 @@ import json
 def get_keys(path):
     with open(path) as f:
         return json.load(f)
-
-
 ```
 
 > **Note**: Change the file path below to be your root directory. 
@@ -110,6 +108,7 @@ In the next lesson, we'll further dissect how to read and translate online docum
 
 
 ```python
+import requests
 term = 'Mexican'
 location = 'Astoria NY'
 SEARCH_LIMIT = 10
