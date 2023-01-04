@@ -1,4 +1,3 @@
-
 # Using the Yelp API - Codealong
 
 ## Introduction
@@ -59,7 +58,7 @@ NOTE: dot files won't show up with just `ls` you must use the show all command a
 
 ```
 cd .secret/
-code yelp_api.json
+touch yelp_api.json
 ```
 
 In this file, let's create a dictionary of values representing the client id and API key that looks something like this:
